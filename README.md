@@ -1,6 +1,6 @@
 # CLI Tasks
 
-A simple command-line interface (CLI) to-do list application written in Go. This tool allows users to add, list, delete, and mark tasks as complete using a CSV file for persistence.
+A simple command-line interface (CLI) Task Management application written in Go. This tool allows users to add, list, delete, and mark tasks as complete using a CSV file for persistence.
 
 ## Features
 
@@ -14,7 +14,7 @@ A simple command-line interface (CLI) to-do list application written in Go. This
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cli-tasks.git
+   git clone https://github.com/Ajay552/Task-Management-CLI.git
    cd cli-tasks
    ```
 2. Build the project:
